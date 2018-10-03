@@ -18,4 +18,9 @@ def last_element(array)
   array[array.length - 1]
 end
 
-def
+def first_element_with_array_methods(array)
+  array.shift()
+  array.shift()
+end
+
+def 
