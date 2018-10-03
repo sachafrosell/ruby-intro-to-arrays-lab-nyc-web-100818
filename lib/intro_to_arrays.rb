@@ -27,3 +27,5 @@ def last_element_with_array_methods(array)
   last_element = array.pop()
   return last_element
 end
+
+def 
